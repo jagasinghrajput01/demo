@@ -4,7 +4,7 @@ age = int(input("Enter your age: "))
 print("Hello,", name)
 print("You are", age, "years old.")
 
-if age >= 18:
+if age >= 25:
     print("You are an adult.")
 else:
     print("You are a minor.")
